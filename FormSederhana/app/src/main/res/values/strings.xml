@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Form Sederhana</string>
+    <string name="npm">NPM</string>
+    <string name="nama">Nama</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="submit">Submit</string>
+</resources>
